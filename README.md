@@ -13,11 +13,14 @@ GAMEFLOW:
 
 
 PLAYER STATS:
+
     -hp
     -stamina
     -attackPower
 
+
 ENEMY STATS::
+
     -hp
 
 
