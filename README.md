@@ -38,6 +38,7 @@ c#sharp rawFiles also attached in folder "#rawScripts"
 udemy course: https://www.udemy.com/course/unity2darpg/
 (course description is in japanese)
 
-
+completion certificate
+https://drive.google.com/file/d/1QL-qWuD_86OLx8JenQRIk-nnSCNZu8bq/view?usp=sharing
 
 
