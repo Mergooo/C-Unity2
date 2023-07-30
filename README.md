@@ -22,6 +22,7 @@ PLAYER STATS:
 ENEMY STATS::
 
     -hp
+    -attack power
 
 
 
